@@ -1,0 +1,45 @@
+Run timestamp: 2025-10-02T19:01:28.283803Z
+Total records: 21605
+Gutenberg-Richter a: 6.685799422362953, b: 1.1212574596772655
+Magnitude-Depth corr: 0.15907076842847054
+
+Top 10 faults by count:
+                     Nearest_Fault  Count  Mean_Mag  Mean_Slip_Rate_mm_per_yr  Mean_Slip_Deficit_m  Mean_Elapsed_Time_yr  Mean_Mw_Potential
+                     Orhaneli Fayý   7281  2.658124                  2.500000               0.4250            170.000000           1.771713
+            Kuzey Anadolu Fay Zonu   4616  2.602101                  7.500000               0.1950             26.000000           2.648286
+ Kuzey Anadolu Fay Zonu Ganos Fayý   2446  2.594644                  5.000000               0.5650            113.000000           2.021303
+                        Troya Fayý   2341  2.544383                  1.500000               0.1720            114.666667           1.547107
+             Havran-Balýkesir Fayý   1086  2.562983                  2.500000               0.3175            127.000000           1.952577
+                   Manyas Fay Zonu    767  2.632203                  0.800000               0.0488             61.000000           1.183004
+                Eskiþehir Fay Zonu    763  2.587811                  4.500000               0.3105             69.000000           2.361621
+             Yenice-Gönen Fay Zonu    638  2.584639                  2.433333               0.1752             72.000000           1.592494
+                       Bekten Fayý    605  2.604463                  3.333333               1.2500            375.000000           1.987606
+Kuzey Anadolu Fay Zonu Ulubat Fayý    536  2.602239                  3.500000               0.5950            170.000000           2.051133
+
+Missing summary:
+Date                        0
+Latitude                    0
+Longitude                   0
+Depth_km                    0
+Magnitude_ML                0
+Location                    0
+Nearest_Fault               0
+Fault_Length_km             0
+Fault_Width_m               0
+Fault_Depth_m               0
+Fault_Type                  0
+Length_km                   0
+Seismogenic_Depth_km        0
+Slip_Rate_mm_per_yr         0
+Max_Surface_Slip_m          0
+Recurrence_Interval_yr      0
+Last_Event_Year             0
+Last_Event_Mw               0
+Elapsed_Time_yr             0
+Slip_Deficit_m              0
+Normalized_Slip_m_per_km    0
+Moment_Potential_Nm         0
+Mw_Potential                0
+Year                        0
+Month                       0
+Mag_bin                     0
